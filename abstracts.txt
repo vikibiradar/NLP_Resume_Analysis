@@ -1,0 +1,98 @@
+Abstract 1 :
+
+A huge amount of textual information is available on Web, Facebook, blogs and 
+Wikipedia, everyday rising new techniques, algorithms and tools extract the useful 
+information. Therefore, Named Entity Recognition (NER) is very important technique to 
+recognize the noun entities like such as names, date or time, location, medicine names etc. 
+Many researchers have proposed many techniques in different languages and domains for 
+extract information from text that techniques are help to developed new NER applications. 
+Here, we discuss NER techniques: rule-based, learning-based and hybrid approaches and 
+their application and systems. We also present advantages and disadvantages of different 
+libraries and their tools using Java, Python, and Cython programming languages which are 
+SpaCy, Apache OpenNLP, StanfordNLP and tensorflow. Few libraries served a NER prebuilt models that we use for comparison. We compare these few libraries on the basedon 
+training accuracy, model size, time prediction, training loss data and F-measure. The data 
+set is same for all libraries during training and testing, Spacy library provided a higher 
+performance accuracy and good results as compare the other models. 
+
+Abstract 2 :
+
+Agencies and various high-level firms must deal with a large number of new jobs seeking 
+people with various resumes. However, managing large amounts of text data and selecting 
+the best-fit candidate is more difficult and time-consuming. This paper provides an overview
+of an ongoing Information Extraction System project that helps recruiters in identifying the 
+best candidate by extracting relevant information from the resume. 
+This project presents a system that uses Natural Language Processing (NLP) techniques to
+extract minute data from a resume, such as education, experience, skills, and experience. 
+The recruiting process is made easier and more efficient by parsing the resume. The 
+proposed system is made up of three modules: an administration management system, File
+upload and parser system, and an information extraction system. The administrator will 
+upload the applicant's resume into the system, and the relevant information will be 
+extracted in a structured format. Using the parsed information from the Resume, HR can 
+select the best candidate for the job based on the company's needs.
+
+Abstract 3:
+
+In company’s or organization’s recruiting process, for a single opening there are multiple applying candidates. 
+First process in recruiting procedure is to go with resumes one by one for the selection of best candidate. But 
+this is time consuming and hectic process for recruiters. The reason behind this is each applicant has its own 
+unique resume with different sections and different formats. So, it is not possible for recruiters to go with 
+resumes one by one. To minimize the efforts of recruiters and investment of timing in this process we have 
+proposed a system where recruiters can easily analyze resumes in simple file formats with the ranking. This 
+project is based on Natural Language Processing (NLP). Two major components of this system are Job Seekers 
+and Recruiters. Applicants will upload their resume in different formats mainly pdf or doc. Then parser will 
+parse these resumes for field extraction, after analysis system will scale the resume and will give suggestions 
+like required skills to be included in resume or courses to be done or fields to be included in resume to increase 
+its rank. This ranking will be saved in databases where recruiter will get idea about most deserving candidates 
+for a particular role.
+
+Abstract 4 :
+
+Screening resumes out of bulk is a challenging
+task and recruiters or hiring manager wastes lot of their
+valuable time by searching through each and every
+resume. Often resumes are populated with irrelevant and
+unnecessary information. Therefore, the process of
+parsing thousands of resumes manually consumes lot of
+time and energy there by it makes the hiring process
+expensive. In traditional hiring, resume screening is a
+manual process which consumes a lot of time and energy.
+In this paper the process of screening resumes is
+automated by using advanced Natural Language
+Processing which is a field in Machine Learning .Our model
+helps the recruiters in screening the resumes based on job
+description with in no time. It makes the hiring process
+easy and efficient by extracting the required entities
+automatically by using Spacy NER model from the resumes
+and then generates a graph displaying the score of each
+and every resume. Based on the scores recruiter can
+choose the required candidates without rummaging
+through piles of resumes from unqualified candidates.
+
+Abstract 5 :
+
+Candidates apply in large numbers for jobs on web portals by uploading their resumes, due to the rapid 
+growth of online-based recruitment systems. On the other hand, the resume has its formatting style, data 
+blocks, and segments, as well as a variety of data formatting options such as text alignment, color, font 
+type, and font size, making it an excellent example of unstructured data. As a result, filtering applicants for
+the appropriate position in an organization becomes a difficult task for recruiters. We can use Natural 
+Language Processing (NLP) techniques to extract the relevant information from the resume to save time 
+and effort. Also, a Machine Learning (ML) model is trained to check whether a candidate’s skills, 
+experiences, and other aspects are suitable for that particular role. In addition to that, our system will also 
+recommend the other available job roles based on the candidate’s skillset.
+
+Abstract 6 :
+
+An abstract summarizes recruitment of 
+candidates becomes more challenging when lots of 
+resumes are uploaded for the same employment 
+position. Companies many a times not able to decide on 
+which resume is best-fit for that position. This paper 
+presents an effective Company Recommender 
+System to help recruiters to find the best 
+candidate for given employment title using text 
+mining and machine learning tools. When
+candidatesuploadtheir resumes,thenaccording to the
+companiesrequirements for theemploymentpositions, 
+the candidates’ resumes get ranking. The ranking can 
+be used by the company to get most preferable 
+candidates.

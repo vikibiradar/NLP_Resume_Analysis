@@ -1,0 +1,52 @@
+Read Resume Dataset
+Visualize the Datset
+Clean the resume text
+Word Cloud of most used words in resumes
+Load and add the skills-pattern to spacy entity ruler
+Extract unique skills from cleaned resume text for each category
+Visualize distribution
+Extract total skills for particular job category
+Visualize the total skills with histogram
+Word Cloud of most used words from job category text
+Sort total skills based on freq of occurrence in resumes of corresponding job category
+Display top N skills req
+
+
+Input resume
+Clean the resume
+Apply NER and display entity-label pair
+Visualize the NER 
+Show dependency structure of words in resume
+Extract skills from input resume
+Match the skills with top skills req for job category
+Display match %
+
+
+Classifier
+Create Label encoder and encode category labels
+Split dataset in train test set using wordVectorizer 
+Initialize OneVsFRestClassifier with base KNN Classifier
+Fit the model
+Make predictions on test data
+Display performance and report
+Save the model
+
+
+Test the classifier on input resume
+Clean the input resume
+Transform input using wordVectorizer for model
+predict category label 
+
+
+Ranking of multiple resumes
+
+Read test dataset containing multiple resumes
+Clean the resume text
+Extract unique skills for each input resume
+Predict the category labels using the Classifier
+Calculate the match score with the req job category skills for all resume input
+Sort the Resumes from highest to lowest match score(Ranking)
+
+
+
+
